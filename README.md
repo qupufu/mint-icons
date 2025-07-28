@@ -7,3 +7,5 @@ create a symbolic link in `~/.local/share/icons`. replace `~/git/mint-icons/icon
 ```
 ln -sf ~/git/mint-icons/icons ~/.local/share/icons/qupufu
 ```
+
+go to settings and select the theme
